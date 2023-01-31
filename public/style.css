@@ -1,0 +1,49 @@
+h1 {
+    font-family: 'Calibri Light'
+}
+
+body {
+    font-family: 'Calibri';
+    font-size: 14;
+}
+
+th, td {
+    padding-right: 50px;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px
+}
+
+
+.time {
+    border-right: 1px solid #333
+}
+
+table, th, td{
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+.teadder {
+    background-color: #aaa;
+    padding: 10px;
+    
+}
+
+.ft {
+    font-weight: bold;
+    padding-right: 50px
+}
+
+.numin {
+    width: 30px;
+}
+
+.db {
+    margin-left: 5px;
+}
